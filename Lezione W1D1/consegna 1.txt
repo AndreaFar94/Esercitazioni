@@ -1,0 +1,24 @@
+ESERCIZIO 1 
+
+Utilizzate i dati presenti nel foglio “Assoluti_Ivaˮ: Data Analyst Excel Per ogni riga, calcolate a quanto ammonta lʼIVA del valore in colonna C (“IMPONIBILE IVA INCLUSAˮ) ed inseritelo nella colonna D. Considerate sempre IVA al 20%. Per ogni riga, concatenate i valori in colonna A (“MONITORˮ) e in colonna B (“DESCˮ), separandoli con uno spazio, ed inserite il risultato nella colonna E. 
+
+ESERCIZIO 2 
+
+Utilizzate i dati presenti nel foglio “Giudizioˮ: Tenendo conto che della seguente relazione tra punteggi ed esiti: punteggio 0 “respintoˮ punteggio 40 “sufficienteˮ punteggio 60 “discretoˮ punteggio 70 “buonoˮ Inserire in colonna C lʼesito per ogni studente. 
+Posso ottenere questo risultato tramite una funzione CERCAVERT? Se sì, come?
+
+ESERCIZIO 3 
+
+Utilizzate i dati presenti nel foglio “Fattureˮ: Data Analyst Excel Calcolate il numero di fatture emesse per ognuna delle seguenti categorie: Abbigliamento Alimentari Personale Hardware Indicate il nome della categoria in colonna G e il corrispettivo conteggio in colonna H 
+
+ESERCIZIO 4 
+
+Utilizzate i dati presenti nel foglio “Fattureˮ: Calcolate il numero di fatture emesse per ognuna dei seguenti clienti: H&B Allstate Canon USA America Online Biobottoms Epcot Center Biergarten
+
+ESERCIZIO 5 
+
+Utilizzate i dati presenti nel foglio “Fattureˮ: Data Analyst Excel Calcolate il totale fatturato per ognuna delle seguenti categorie: Abbigliamento Alimentari Personale Hardware Indicate il nome della categoria in colonna G e il risultato in colonna I 
+
+ESERCIZIO 6 
+
+Utilizzate i dati presenti nel foglio “Fattureˮ: Calcolate il totale fatturato per ognuna dei seguenti clienti: H&B Allstate Canon USA America Online Biobottoms Epcot Center Biergarten
