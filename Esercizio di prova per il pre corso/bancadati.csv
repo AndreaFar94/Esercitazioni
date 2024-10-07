@@ -1,0 +1,51 @@
+id_matricola;nome;cognome;età;data_di_nascita;competenze;mansione;anni_di_servizio
+'0001'; Luca;Rossi;34;1989-05-12;Programmazione; Developer;10
+'0002';Giulia;Bianchi;28;1995-03-21;Marketing;Social Media Manager ;5
+'0003';Marco;Verdi;45;1978-07-15;Gestione Progetti;Project Manager;20
+'0004';Francesca;Neri;31;1992-11-30;Design Grafico;Graphic Designer;8
+'0005';Alessandro ;Romano;39;1984-09-05;Analisi Dati;Data Analyst;15
+'0006';Sofia;Fontana;26;1997-02-14;Vendite;Sales Representative;3
+'0007';Michele  ;Conti;42;1981-06-19;Sviluppo Web;Web Developer;18
+'0008';Elena;Gallo;29;1994-08-07;Customer Service; Customer Service Rep;4
+'0009';Simone;Marini;37;1986-04-02;SEO;SEO Specialist;12
+'0010';Arianna;Ferrari;33;1990-01-10;Content Writing;Content Writer;9
+'0011';Antonio;Leoni;50;1973-12-25;Finanza;Financial Analyst;25
+'0012';Chiara;Greco;38;1985-10-18;Risorse Umane;HR Manager;16
+'0013';Matteo;Esposito;27;1996-07-30;Network Security; Cybersecurity Analyst;3
+'0014';Martina;Martini;32;1991-03-04;Traduzione; Translator;7
+'0015';Giovanni;Sorrentino;44;1979-11-11;Ingegneria;Engineer;22
+'0016';Francesco;Bruno;36;1987-05-25;Data Science;Data Scientist;13
+'0017';Claudia;Russo;40;1983-08-19;Comunicazione;PR Specialist;17
+'0018';Roberto;Leone;29;1994-06-14;Content Management;Content Manager;5
+'0019';Alessia;Barbieri;25;1998-02-09;Vendite;Sales Associate;2
+'0020';Giuseppe;Marchetti;41;1982-01-15;Logistica;Logistics Manager;19
+'0021';Sara;Conti;30;1993-12-02;Social Media;Social Media Specialist;6
+'0022';Leonardo;Trombetta;46;1977-04-22;Programmazione;Software Engineer;21
+'0023';Giorgia  ;Di Stefano;39;1984-07-01;Marketing;Brand Manager;14
+'0024';Pierpaolo;Fabbri;35;1988-09-17;Ricerca e Sviluppo;R&D Manager;12
+'0025';Alberto;Rinaldi;29;1994-03-28;Sistemi Informatici;Systems Analyst;5
+'0026';  Martina;Caputo;28;1995-05-16;Vendite;Account Executive;4
+'0027';Franco;Giordano;47;1976-11-08;Gestione Progetti;Project Coordinator;20
+'0028';Elisa;Natale;34;1989-12-25;Supporto Tecnico;Technical Support;10
+'0029';Valentina;Pugliese;30;1993-01-02;Graphic Design;Senior Graphic Designer;6
+'0030';   Salvatore;Marino;41;1982-10-15;Analisi Dati;Data Engineer;18
+'0031';Lara;Barone;36;1987-02-11;Informatica;Software Tester;12
+'0032';Simone;Bartoli;29;1994-08-04;Sviluppo Software;Junior Developer;0
+'0033';Gabriella;Palumbo;33;1990-09-19;SEO;SEO Manager;9
+'0034';Davide;Moretti;45;1978-05-14;Finanza;Finance Manager;20
+'0035';Nicoletta;Lombardi;28;1995-03-30;Marketing;Digital Marketing Specialist;5
+'0036';Leonardo;Morelli;39;1984-07-26;Data Analysis;Senior Data Analyst;15
+'0037';Aldo;De Luca;42;1981-06-18;Logistica;Warehouse Manager;16
+'0038';Giulia;Ferretti;35;1988-11-12;Programmazione;Backend Developer;11
+'0039';Martina;Fabbri;31;1992-04-03;Supporto Clienti;Customer Support Manager;8
+'0040';Marco;Serra;29;1994-10-20;Content Marketing;Content Strategist;5
+'1041'; Francesco;Ciardi;44;1979-12-22;Gestione Progetti;Senior Project Manager;22
+'0042';Alessia;Longo;36;1987-01-09;Sviluppo Mobile; Mobile Developer;13
+'0043';Nadia;Vitale;39;1984-08-15;Informatica;IT Support Specialist ;14
+'0044';Giovanni;Grassi;30;1993-05-26;Comunicazione;Corporate Communicator;6
+'0045';Lorenzo;Battaglia;28;1995-09-11;Marketing; Marketing Analyst;4
+'0046';Rita;Pisano;50;1973-03-18;Finanza;Financial Consultant;25
+'0047';Silvia ;Ricci;32;1991-07-21;Risorse Umane; Recruitment Specialist;9
+'0048';Michele;Corradini;35;1988-02-12;Programmazione;Software Architect;12
+'0049'; Alessandro;Russo;29;1994-04-04;Sviluppo Web; Frontend Developer;3
+'0050';Elena;De Santis;37;1986-11-22;Customer Service;Support Specialist;10

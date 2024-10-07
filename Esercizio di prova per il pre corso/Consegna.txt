@@ -1,0 +1,19 @@
+Da una banca dati di 50 dipendenti (già ordinata in ordine crescente per id matricola - creata con chatgpt) disponibile in un file CSV, bisogna eseguire le seguenti operazioni (senza cancellare le formule, se non espressamente richiesto): 
+
+1) Creare un file Excel denominato "Dipendenti" con la banca dati con password di lettura "PIPPO". Nello stesso file Excel, rinominare il foglio con la banca dati grezza e chiamarlo "banca_dati", dopodichè creare il foglio di lavoro effettivo, rinominandolo "Dipendenti". 
+
+2) Creare le seguenti colonne: 
+"Estrai", per estrarre le prime due cifre dell'id matricola e capire se sono tutti a 0, poi sistema la prima colonna e cancella quella nuova.
+"Nominativo" dove dovrai scrivere l'unione del nome e cognome che trovi nella colonna 2 e 3.
+"MAIL", dove dovrai creare un indirizzo mail partendo dal nome e cognome, tipo "mario.rossi@azienda.com". 
+"Stipendi_Medi_2023", che verrà compilata dopo. 
+
+3) Creare un nuovo foglio chiamato "Calcoli", diviso in due parti (con l'estetica a tuo piacimento):
+
+	1) nella prima parte bisognerà calcolare l'età media, età più grande e quella più piccola, anni di servizio più alti e 	più bassi. Capiremo da quanto 	tempo è aperta l'azienda.
+
+	2) nella seconda andremo a calcolare la media degli stipendi di tutti i dipendenti, utilizzando la base dati del file csv "stipendi 2023". Capiremo qual è lo stipendio più alto e il più basso, calcolando il totale degli stipendi. 
+
+4) Creare una cella in cui ci sia il subtotale somma, della sezione anni di servizio e dgli stipendi medi. Formattare la colonna stipendi medi, in modo tale che si capisca "visivamente" la situazione degli stipendi, dove quelli evidenziati in rosso (o colore simile) sono gli stipendi medi sotto i 3000 euro, quelli in verde sopra i 5000 e quelli in giallo tra 3000 e 4999. 
+
+5) infine, copiare e incollare valori della riga intera dei dipendenti che hanno 28 anni in un nuovo foglio chiamato "Risultato"
