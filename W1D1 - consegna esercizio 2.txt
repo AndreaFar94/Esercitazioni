@@ -1,0 +1,31 @@
+ESERCIZIO 1 
+Utilizzate i dati presenti nel foglio “Parcheggioˮ: 
+La colonna C (“tipologia veicoloˮ) va popolata come segue: 
+Se la targa presente in colonna A inizia con una lettera compresa tra la A e la F (incluse), inserite uno zero 0.
+Se la targa presente in colonna A inizia con una lettera compresa tra la G e la M (incluse), inserite un uno 1. 
+Se la targa presente in colonna A inizia con una lettera compresa tra la N e la Z (incluse), inserite un due 2. 
+
+Considerate ora che il parcheggio in questione costa: 
+
+2€ ogni 30 minuti per i veicoli di categoria 0, 
+1,5€ ogni 30 minuti per i veicoli di cateogoria 1, 
+2€ ogni ora per i veicoli di cateogira 2. 
+
+Popolate la colonna D (“costoˮ) rispettando la logica sopra indicata. 
+
+
+ESERCIZIO 2 
+Data Analyst Excel Utilizzando una o più colonne libere (ad esempio la D per indicare il soggetto e la E per il conteggio) contate quante volte ogni frutto compare nella colonna A. 
+
+
+ESERCIZIO 3 
+Utilizzando una o più colonne libere, calcolate il totale di ogni frutto (ad esempio, per le banane: sommate i valori di colonna B se, nella stessa riga, in colonna A, compare “Bananaˮ). 
+
+
+ESERCIZIO 4 
+Utilizzando una o più colonne libere, calcolate il costo totale di mele vendute solo nel caso in cui il peso sia superiore a 80.
+(sommate i valori di colonna C se, nella stessa riga, in colonna A, compare “Melaˮ e in colonna B compare un valore maggiore di 80.
+
+=SOMMA.PIÙ.SE(COSTO;FRUTTA;E5;PESO;">"&M4)
+=SOMMA.PIÙ.SE(COSTO;FRUTTA;E5;PESO;">80")
+
